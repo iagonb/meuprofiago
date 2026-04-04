@@ -1,0 +1,10 @@
+baseURL = "https://meuprofiago.com.br"
+title = "MeuProf.Iago"
+theme = "PaperMod"
+
+[params]
+  author = "Iago Barros"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
