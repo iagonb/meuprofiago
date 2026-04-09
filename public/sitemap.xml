@@ -11,7 +11,13 @@
     <loc>http://localhost:1313/posts/liouville/</loc>
     <lastmod>2026-04-04T14:49:12-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/bio/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ensino/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pesquisa/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
