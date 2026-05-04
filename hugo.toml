@@ -42,7 +42,7 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "MeuProf.Iago"
-    subtitle = "Física e Matemática"
+    subtitle = "Física e Ciência de Dados"
     imageUrl = "/images/profile.jpg"
     imageTitle = "MeuProf.Iago"
     imageWidth = 120
