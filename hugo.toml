@@ -48,27 +48,7 @@ theme = "PaperMod"
     imageWidth = 120
     imageHeight = 120
 
-    [[params.profileMode.buttons]]
-      name = "Posts"
-      url = "/posts"
-
-    [[params.profileMode.buttons]]
-      name = "Tags"
-      url = "/tags"
-
 [menu]
-  [[menu.main]]
-    identifier = "bio"
-    name = "Bio"
-    url = "/bio/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 20
-
   [[menu.main]]
     identifier = "ensino"
     name = "Ensino"
