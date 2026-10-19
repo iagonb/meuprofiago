@@ -48,7 +48,17 @@ theme = "PaperMod"
     imageWidth = 120
     imageHeight = 120
 
+  [[params.profileMode.buttons]]
+    name = "Meu caderno aberto"
+    url = "/posts/"
+
 [menu]
+  [[menu.main]]
+    identifier = "caderno"
+    name = "Meu caderno aberto"
+    url = "/posts/"
+    weight = 20
+
   [[menu.main]]
     identifier = "ensino"
     name = "Ensino"

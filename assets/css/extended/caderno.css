@@ -1,0 +1,30 @@
+.caderno-header h1 {
+  display: inline;
+  line-height: 1.35;
+  background: linear-gradient(transparent 68%, rgba(104, 177, 164, .24) 68%, rgba(104, 177, 164, .24) 93%, transparent 93%);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.caderno-header .post-description { margin-top: 14px; }
+.post-content .caderno-epigrafe { margin: 32px 0 40px; }
+.post-content .caderno-epigrafe blockquote {
+  margin: 0;
+  padding: 0 0 0 22px;
+  border-inline-start: 3px solid rgba(104, 177, 164, .65);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.85;
+  color: var(--content);
+}
+.post-content .caderno-epigrafe blockquote p { margin: 0; }
+.post-content .caderno-epigrafe figcaption {
+  margin-top: 16px;
+  padding-left: 25px;
+  font-size: 14px;
+  color: var(--secondary);
+}
+@media (max-width: 600px) {
+  .caderno-header h1 { font-size: 32px; }
+  .post-content .caderno-epigrafe blockquote { padding-left: 16px; font-size: 16px; line-height: 1.75; }
+  .post-content .caderno-epigrafe figcaption { padding-left: 19px; }
+}
