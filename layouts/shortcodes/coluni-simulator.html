@@ -1,0 +1,121 @@
+<section class="coluni-app" data-coluni-app aria-label="Simulador de provas do COLUNI">
+  <div class="coluni-card" data-view="setup">
+    <h2 id="coluni-setup-title">Configurar simulado</h2>
+    <div class="coluni-setup-grid">
+      <label class="coluni-field">
+        <span>Filtrar por</span>
+        <select data-filter-mode>
+          <option value="subject">Conteúdo</option>
+          <option value="year">Ano</option>
+        </select>
+      </label>
+
+      <label class="coluni-field" data-content-field>
+        <span>Conteúdo</span>
+        <select data-subject>
+          <option value="Todos">Todos</option>
+          <option value="Língua Portuguesa">Língua Portuguesa</option>
+          <option value="Matemática">Matemática</option>
+          <option value="Inglês">Inglês</option>
+          <option value="Ciências">Ciências</option>
+          <option value="Geografia">Geografia</option>
+          <option value="História">História</option>
+        </select>
+      </label>
+
+      <label class="coluni-field" data-year-field hidden>
+        <span>Ano</span>
+        <select data-year>
+          <option value="2018">2018</option>
+          <option value="2019">2019</option>
+          <option value="2020">2020</option>
+          <option value="2021">2021</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+          <option value="2024">2024</option>
+          <option value="2025">2025</option>
+          <option value="2026">2026</option>
+        </select>
+      </label>
+
+      <label class="coluni-field">
+        <span>Número de questões</span>
+        <select data-count>
+          <option value="5">5 questões</option>
+          <option value="10" selected>10 questões</option>
+          <option value="15">15 questões</option>
+          <option value="30">30 questões</option>
+          <option value="complete">Prova completa</option>
+        </select>
+      </label>
+    </div>
+    <p class="coluni-availability" data-availability aria-live="polite"></p>
+    <button class="coluni-button coluni-button-primary" type="button" data-start>Começar simulado</button>
+    <p class="coluni-footnote">As questões são sorteadas. A prova completa inclui todas as questões disponíveis no filtro escolhido.</p>
+  </div>
+
+  <div class="coluni-card coluni-run" data-view="run" hidden>
+    <div class="coluni-run-top">
+      <div>
+        <p class="coluni-eyebrow" data-question-source></p>
+        <h2 data-question-heading></h2>
+      </div>
+      <div class="coluni-timer" aria-label="Tempo decorrido">
+        <span>Tempo</span>
+        <strong data-timer>00:00</strong>
+      </div>
+    </div>
+
+    <div class="coluni-progress-row">
+      <p data-progress></p>
+      <div class="coluni-question-map" data-question-map aria-label="Navegação entre questões"></div>
+    </div>
+
+    <article class="coluni-question-content" data-question-content aria-label="Enunciado da questão"></article>
+    <p class="coluni-document-help" data-transcription-note></p>
+
+    <details class="coluni-original-details" data-original-details>
+      <summary>Consultar recorte original da prova</summary>
+      <figure class="coluni-document-wrap" data-document-wrap>
+        <a data-original target="_blank" rel="noopener noreferrer" aria-label="Abrir a página da prova original em uma nova aba">
+          <img data-page-image alt="Página original da prova" decoding="async">
+        </a>
+      </figure>
+      <p class="coluni-document-help">Use o original para conferir elementos gráficos, trechos de apoio e símbolos que a transcrição talvez não represente.</p>
+    </details>
+
+    <fieldset class="coluni-answers">
+      <legend>Escolha uma alternativa</legend>
+      <div data-answer-options></div>
+    </fieldset>
+
+    <div class="coluni-run-actions">
+      <button class="coluni-button" type="button" data-previous>← Anterior</button>
+      <button class="coluni-button coluni-button-finish" type="button" data-finish>Finalizar simulado</button>
+      <button class="coluni-button coluni-button-primary" type="button" data-next>Próxima →</button>
+    </div>
+  </div>
+
+  <div class="coluni-card coluni-result" data-view="result" hidden aria-live="polite">
+    <p class="coluni-eyebrow">Simulado concluído</p>
+    <h2>Seu resultado</h2>
+    <p class="coluni-grade"><strong data-grade>0,00</strong><span>/ 10</span></p>
+    <dl class="coluni-result-grid">
+      <div><dt>Acertos</dt><dd data-correct></dd></div>
+      <div><dt>Tempo total</dt><dd data-total-time></dd></div>
+      <div><dt>Média por questão</dt><dd data-average-time></dd></div>
+    </dl>
+    <button class="coluni-button coluni-button-primary" type="button" data-new>Configurar outro simulado</button>
+  </div>
+
+  <p class="coluni-error" data-error role="alert" hidden>Não foi possível carregar as questões agora. Atualize a página para tentar novamente.</p>
+</section>
+<link rel="stylesheet" href="/simulados/coluni/simulador.css">
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]], displayMath: [["\\[", "\\]"]] },
+    options: { skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"] }
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="/simulados/coluni/simulador.js" defer></script>

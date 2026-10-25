@@ -1,0 +1,2013 @@
+{
+  "2018-23": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-23/figura-1.png",
+      "page": 12,
+      "rect": [
+        335.33,
+        314.93,
+        565.8,
+        569.47
+      ],
+      "type": "vector"
+    }
+  ],
+  "2018-24": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-24/figura-1.png",
+      "page": 13,
+      "rect": [
+        201.0,
+        215.0,
+        721.0,
+        525.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-27": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-27/figura-1.png",
+      "page": 15,
+      "rect": [
+        285.0,
+        237.0,
+        639.0,
+        495.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-28": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-28/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-28/figura-1.png",
+      "page": 16,
+      "rect": [
+        329.0,
+        296.0,
+        596.0,
+        548.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-30": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-30/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-30/figura-1.png",
+      "page": 17,
+      "rect": [
+        542.0,
+        218.0,
+        805.0,
+        445.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-30/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-30/figura-2.png",
+      "page": 17,
+      "rect": [
+        108.0,
+        225.0,
+        385.0,
+        457.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-31": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-31/figura-1.png",
+      "page": 18,
+      "rect": [
+        411.0,
+        215.0,
+        661.0,
+        355.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-32": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-32/figura-1.png",
+      "page": 18,
+      "rect": [
+        211.0,
+        629.0,
+        728.0,
+        925.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-34": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        116.0,
+        595.0,
+        382.0,
+        867.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-34/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-34/figura-2.png",
+      "page": 19,
+      "rect": [
+        413.0,
+        595.0,
+        815.0,
+        866.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2018-38": [
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-38/figura-1.png",
+      "page": 21,
+      "rect": [
+        225.0,
+        215.0,
+        336.0,
+        326.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-38/figura-2.png",
+      "page": 21,
+      "rect": [
+        524.0,
+        215.0,
+        697.0,
+        328.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-38/figura-3.png",
+      "page": 21,
+      "rect": [
+        206.0,
+        396.0,
+        355.0,
+        524.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-38/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-38/figura-4.png",
+      "page": 21,
+      "rect": [
+        532.0,
+        396.0,
+        688.0,
+        520.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2018/questao-38/figura-5.png",
+      "texPath": "static/simulados/coluni/figuras/2018/questao-38/figura-5.png",
+      "page": 22,
+      "rect": [
+        336.0,
+        225.0,
+        582.0,
+        389.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-24": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-24/figura-1.png",
+      "page": 13,
+      "rect": [
+        316.0,
+        552.0,
+        581.0,
+        851.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-25": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-25/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-25/figura-1.png",
+      "page": 14,
+      "rect": [
+        261.0,
+        271.0,
+        660.0,
+        719.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-29": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-29/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-29/figura-1.png",
+      "page": 16,
+      "rect": [
+        369.0,
+        732.0,
+        527.0,
+        897.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-30": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-30/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-30/figura-1.png",
+      "page": 17,
+      "rect": [
+        269.0,
+        176.0,
+        628.0,
+        474.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-32": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-32/figura-1.png",
+      "page": 18,
+      "rect": [
+        520.0,
+        728.0,
+        797.0,
+        923.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-34": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        145.0,
+        522.0,
+        752.0,
+        886.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-35": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-35/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-35/figura-1.png",
+      "page": 20,
+      "rect": [
+        301.0,
+        760.0,
+        638.0,
+        924.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-37": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        100.0,
+        176.0,
+        386.0,
+        600.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2019-38": [
+    {
+      "path": "/simulados/coluni/figuras/2019/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2019/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        98.0,
+        176.0,
+        488.0,
+        400.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-21": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-21/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-21/figura-1.png",
+      "page": 9,
+      "rect": [
+        305.0,
+        351.0,
+        637.0,
+        573.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-23": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-23/figura-1.png",
+      "page": 11,
+      "rect": [
+        95.1,
+        345.45,
+        809.85,
+        505.2
+      ],
+      "type": "vector"
+    }
+  ],
+  "2020-26": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-26/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-26/figura-1.png",
+      "page": 13,
+      "rect": [
+        465.0,
+        156.0,
+        796.0,
+        523.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-26/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-26/figura-2.png",
+      "page": 13,
+      "rect": [
+        99.0,
+        602.0,
+        380.0,
+        810.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-28": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-28/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-28/figura-1.png",
+      "page": 14,
+      "rect": [
+        316.0,
+        529.0,
+        624.0,
+        825.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-29": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-29/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-29/figura-1.png",
+      "page": 15,
+      "rect": [
+        222.0,
+        197.0,
+        676.0,
+        471.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-31": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-31/figura-1.png",
+      "page": 16,
+      "rect": [
+        98.0,
+        332.0,
+        384.0,
+        567.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-31/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-31/figura-2.png",
+      "page": 16,
+      "rect": [
+        475.0,
+        332.0,
+        746.0,
+        567.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-31/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-31/figura-3.png",
+      "page": 16,
+      "rect": [
+        98.0,
+        587.0,
+        381.0,
+        815.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-31/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-31/figura-4.png",
+      "page": 16,
+      "rect": [
+        399.0,
+        587.0,
+        831.0,
+        816.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-33": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-33/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-33/figura-1.png",
+      "page": 18,
+      "rect": [
+        149.0,
+        178.0,
+        792.0,
+        544.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-34": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        119.0,
+        178.0,
+        823.0,
+        588.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-35": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-35/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-35/figura-1.png",
+      "page": 20,
+      "rect": [
+        164.0,
+        235.0,
+        374.0,
+        511.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-35/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-35/figura-2.png",
+      "page": 20,
+      "rect": [
+        482.0,
+        235.0,
+        796.0,
+        521.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-35/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-35/figura-3.png",
+      "page": 20,
+      "rect": [
+        259.0,
+        677.0,
+        666.0,
+        891.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-36": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-36/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-36/figura-1.png",
+      "page": 21,
+      "rect": [
+        210.0,
+        197.0,
+        714.0,
+        511.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-37": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        206.0,
+        178.0,
+        719.0,
+        640.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2020-38": [
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        104.0,
+        289.0,
+        814.0,
+        593.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-38/figura-2.png",
+      "page": 23,
+      "rect": [
+        347.0,
+        651.0,
+        582.0,
+        950.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2020/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2020/questao-38/figura-3.png",
+      "page": 24,
+      "rect": [
+        96.0,
+        860.0,
+        803.0,
+        1041.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-23": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-23/figura-1.png",
+      "page": 10,
+      "rect": [
+        231.0,
+        294.0,
+        695.0,
+        672.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-24": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-24/figura-1.png",
+      "page": 11,
+      "rect": [
+        367.0,
+        256.0,
+        557.0,
+        530.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-27": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-27/figura-1.png",
+      "page": 13,
+      "rect": [
+        129.0,
+        178.0,
+        795.0,
+        405.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-29": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-29/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-29/figura-1.png",
+      "page": 14,
+      "rect": [
+        175.0,
+        256.0,
+        724.0,
+        655.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-31": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-31/figura-1.png",
+      "page": 16,
+      "rect": [
+        152.0,
+        235.0,
+        748.0,
+        763.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-32": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-32/figura-1.png",
+      "page": 17,
+      "rect": [
+        153.0,
+        178.0,
+        779.0,
+        736.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-33": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-33/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-33/figura-1.png",
+      "page": 18,
+      "rect": [
+        275.0,
+        353.0,
+        668.0,
+        744.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-34": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        202.0,
+        178.0,
+        741.0,
+        452.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-35": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-35/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-35/figura-1.png",
+      "page": 20,
+      "rect": [
+        206.0,
+        332.0,
+        716.0,
+        653.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-36": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-36/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-36/figura-1.png",
+      "page": 21,
+      "rect": [
+        217.0,
+        275.0,
+        684.0,
+        501.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-36/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-36/figura-2.png",
+      "page": 21,
+      "rect": [
+        216.0,
+        578.0,
+        684.0,
+        850.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-37": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        216.0,
+        353.0,
+        717.0,
+        691.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2021-38": [
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        166.0,
+        273.0,
+        391.0,
+        475.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-2.png",
+      "page": 23,
+      "rect": [
+        573.0,
+        273.0,
+        716.0,
+        474.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-3.png",
+      "page": 23,
+      "rect": [
+        122.0,
+        595.0,
+        435.0,
+        793.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-4.png",
+      "page": 23,
+      "rect": [
+        570.0,
+        595.0,
+        721.0,
+        794.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-5.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-5.png",
+      "page": 24,
+      "rect": [
+        105.0,
+        232.0,
+        388.0,
+        501.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2021/questao-38/figura-6.png",
+      "texPath": "static/simulados/coluni/figuras/2021/questao-38/figura-6.png",
+      "page": 24,
+      "rect": [
+        438.0,
+        232.0,
+        823.0,
+        499.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-02": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-02/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-02/figura-1.png",
+      "page": 2,
+      "rect": [
+        103.0,
+        412.0,
+        822.0,
+        591.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-21": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-21/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-21/figura-1.png",
+      "page": 9,
+      "rect": [
+        115.0,
+        215.0,
+        409.0,
+        382.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-24": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-24/figura-1.png",
+      "page": 10,
+      "rect": [
+        286.0,
+        625.0,
+        640.0,
+        810.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-25": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-25/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-25/figura-1.png",
+      "page": 11,
+      "rect": [
+        102.0,
+        412.0,
+        821.0,
+        618.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-27": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-27/figura-1.png",
+      "page": 13,
+      "rect": [
+        269.0,
+        295.0,
+        656.0,
+        604.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-28": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-28/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-28/figura-1.png",
+      "page": 14,
+      "rect": [
+        127.0,
+        492.0,
+        414.0,
+        653.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-28/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-28/figura-2.png",
+      "page": 14,
+      "rect": [
+        490.0,
+        492.0,
+        771.0,
+        650.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-32": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-32/figura-1.png",
+      "page": 17,
+      "rect": [
+        284.0,
+        175.0,
+        660.0,
+        550.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-33": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-33/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-33/figura-1.png",
+      "page": 18,
+      "rect": [
+        103.0,
+        327.0,
+        822.0,
+        626.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-34": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        157.0,
+        175.0,
+        742.0,
+        624.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-37": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        172.0,
+        250.0,
+        396.0,
+        392.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-37/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-37/figura-2.png",
+      "page": 22,
+      "rect": [
+        575.0,
+        250.0,
+        694.0,
+        393.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-37/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-37/figura-3.png",
+      "page": 22,
+      "rect": [
+        186.0,
+        489.0,
+        382.0,
+        620.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-37/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-37/figura-4.png",
+      "page": 22,
+      "rect": [
+        528.0,
+        489.0,
+        740.0,
+        621.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-38": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        217.0,
+        178.0,
+        707.0,
+        743.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-38/figura-2.png",
+      "page": 24,
+      "rect": [
+        135.0,
+        226.0,
+        360.0,
+        676.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-38/figura-3.png",
+      "page": 24,
+      "rect": [
+        487.0,
+        226.0,
+        751.0,
+        675.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-21": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-21/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-21/figura-1.png",
+      "page": 9,
+      "rect": [
+        134.0,
+        317.0,
+        791.0,
+        502.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-23": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-23/figura-1.png",
+      "page": 10,
+      "rect": [
+        200.0,
+        235.0,
+        742.0,
+        798.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-24": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-24/figura-1.png",
+      "page": 11,
+      "rect": [
+        152.0,
+        316.0,
+        790.0,
+        738.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-27": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-27/figura-1.png",
+      "page": 14,
+      "rect": [
+        298.0,
+        236.0,
+        625.0,
+        584.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-31": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-31/figura-1.png",
+      "page": 16,
+      "rect": [
+        294.0,
+        371.0,
+        647.0,
+        578.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-32": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-32/figura-1.png",
+      "page": 17,
+      "rect": [
+        233.0,
+        205.0,
+        709.0,
+        525.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2023-38": [
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        172.0,
+        195.0,
+        362.0,
+        381.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-38/figura-2.png",
+      "page": 23,
+      "rect": [
+        519.0,
+        195.0,
+        792.0,
+        381.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-38/figura-3.png",
+      "page": 23,
+      "rect": [
+        155.0,
+        639.0,
+        279.0,
+        761.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2023/questao-38/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2023/questao-38/figura-4.png",
+      "page": 24,
+      "rect": [
+        198.0,
+        778.0,
+        745.0,
+        1044.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-01": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-01/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-01/figura-1.png",
+      "page": 1,
+      "rect": [
+        138.0,
+        236.0,
+        787.0,
+        702.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-01/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-01/figura-2.png",
+      "page": 1,
+      "rect": [
+        248.0,
+        800.0,
+        693.0,
+        1144.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-23": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-23/figura-1.png",
+      "page": 11,
+      "rect": [
+        141.0,
+        218.0,
+        413.0,
+        679.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-23/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-23/figura-2.png",
+      "page": 11,
+      "rect": [
+        525.0,
+        218.0,
+        799.0,
+        677.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-24": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-24/figura-1.png",
+      "page": 12,
+      "rect": [
+        289.0,
+        198.0,
+        654.0,
+        479.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-25": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-25/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-25/figura-1.png",
+      "page": 13,
+      "rect": [
+        343.0,
+        217.0,
+        599.0,
+        360.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-31": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-31/figura-1.png",
+      "page": 16,
+      "rect": [
+        170.0,
+        235.0,
+        771.0,
+        583.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-32": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-32/figura-1.png",
+      "page": 17,
+      "rect": [
+        200.0,
+        178.0,
+        739.0,
+        768.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-33": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-33/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-33/figura-1.png",
+      "page": 18,
+      "rect": [
+        263.0,
+        198.0,
+        663.0,
+        579.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-34": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-34/figura-1.png",
+      "page": 19,
+      "rect": [
+        252.0,
+        175.0,
+        655.0,
+        439.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-36": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-36/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-36/figura-1.png",
+      "page": 21,
+      "rect": [
+        290.0,
+        175.0,
+        662.0,
+        383.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-37": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        125.0,
+        174.0,
+        270.0,
+        390.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2024-38": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        89.0,
+        231.0,
+        443.0,
+        734.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-38/figura-2.png",
+      "page": 23,
+      "rect": [
+        459.0,
+        231.0,
+        830.0,
+        734.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-38/figura-3.png",
+      "page": 23,
+      "rect": [
+        310.0,
+        805.0,
+        600.0,
+        956.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-12": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-12/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-12/figura-1.png",
+      "page": 7,
+      "rect": [
+        207.53,
+        257.85,
+        551.03,
+        464.93
+      ],
+      "type": "vector"
+    }
+  ],
+  "2025-19": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-19/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-19/figura-1.png",
+      "page": 9,
+      "rect": [
+        300.0,
+        240.0,
+        642.0,
+        570.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-20": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-20/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-20/figura-1.png",
+      "page": 10,
+      "rect": [
+        98.0,
+        508.0,
+        403.0,
+        736.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-20/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-20/figura-2.png",
+      "page": 10,
+      "rect": [
+        458.0,
+        508.0,
+        769.0,
+        737.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-21": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-21/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-21/figura-1.png",
+      "page": 11,
+      "rect": [
+        202.0,
+        178.0,
+        722.0,
+        632.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-23": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-23/figura-1.png",
+      "page": 12,
+      "rect": [
+        209.0,
+        352.0,
+        716.0,
+        651.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-27": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-27/figura-1.png",
+      "page": 16,
+      "rect": [
+        293.0,
+        217.0,
+        650.0,
+        492.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-29": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-29/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-29/figura-1.png",
+      "page": 17,
+      "rect": [
+        307.0,
+        217.0,
+        634.0,
+        464.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-30": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-30/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-30/figura-1.png",
+      "page": 17,
+      "rect": [
+        285.0,
+        842.0,
+        477.0,
+        1006.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-31": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-31/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-31/figura-1.png",
+      "page": 18,
+      "rect": [
+        176.0,
+        434.0,
+        457.0,
+        604.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-31/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-31/figura-2.png",
+      "page": 18,
+      "rect": [
+        471.0,
+        434.0,
+        746.0,
+        604.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-31/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-31/figura-3.png",
+      "page": 18,
+      "rect": [
+        324.0,
+        622.0,
+        610.0,
+        792.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-32": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-32/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-32/figura-1.png",
+      "page": 19,
+      "rect": [
+        206.0,
+        180.0,
+        717.0,
+        431.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-34": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-34/figura-1.png",
+      "page": 20,
+      "rect": [
+        107.0,
+        217.0,
+        448.0,
+        534.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-34/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-34/figura-2.png",
+      "page": 20,
+      "rect": [
+        472.0,
+        217.0,
+        826.0,
+        534.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-34/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-34/figura-3.png",
+      "page": 20,
+      "rect": [
+        100.0,
+        553.0,
+        459.0,
+        868.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-34/figura-4.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-34/figura-4.png",
+      "page": 20,
+      "rect": [
+        472.0,
+        553.0,
+        830.0,
+        868.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2025-38": [
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        202.0,
+        198.0,
+        473.0,
+        486.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-38/figura-2.png",
+      "page": 23,
+      "rect": [
+        473.0,
+        199.0,
+        737.0,
+        484.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2025/questao-38/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2025/questao-38/figura-3.png",
+      "page": 24,
+      "rect": [
+        207.0,
+        466.0,
+        693.0,
+        726.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-04": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-04/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-04/figura-1.png",
+      "page": 3,
+      "rect": [
+        151.0,
+        256.0,
+        789.0,
+        459.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-05": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-05/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-05/figura-1.png",
+      "page": 4,
+      "rect": [
+        183.0,
+        178.0,
+        758.0,
+        387.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-11": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-11/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-11/figura-1.png",
+      "page": 7,
+      "rect": [
+        271.0,
+        272.0,
+        637.0,
+        385.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-12": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-12/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-12/figura-1.png",
+      "page": 7,
+      "rect": [
+        229.0,
+        835.0,
+        695.0,
+        1012.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-18": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-18/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-18/figura-1.png",
+      "page": 10,
+      "rect": [
+        332.0,
+        217.0,
+        608.0,
+        397.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-19": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-19/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-19/figura-1.png",
+      "page": 10,
+      "rect": [
+        248.0,
+        607.0,
+        691.0,
+        781.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-20": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-20/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-20/figura-1.png",
+      "page": 11,
+      "rect": [
+        103.0,
+        256.0,
+        286.0,
+        555.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-23": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-23/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-23/figura-1.png",
+      "page": 13,
+      "rect": [
+        213.0,
+        371.0,
+        687.0,
+        574.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-23/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-23/figura-2.png",
+      "page": 13,
+      "rect": [
+        151.0,
+        683.0,
+        359.0,
+        867.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-23/figura-3.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-23/figura-3.png",
+      "page": 13,
+      "rect": [
+        335.0,
+        683.0,
+        543.0,
+        867.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-24": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-24/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-24/figura-1.png",
+      "page": 13,
+      "rect": [
+        151.0,
+        868.0,
+        359.0,
+        1052.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-24/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-24/figura-2.png",
+      "page": 13,
+      "rect": [
+        335.0,
+        868.0,
+        543.0,
+        1052.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-27": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-27/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-27/figura-1.png",
+      "page": 15,
+      "rect": [
+        339.0,
+        275.0,
+        586.0,
+        576.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-28": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-28/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-28/figura-1.png",
+      "page": 16,
+      "rect": [
+        292.0,
+        256.0,
+        632.0,
+        478.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-29": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-29/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-29/figura-1.png",
+      "page": 17,
+      "rect": [
+        296.0,
+        257.0,
+        605.0,
+        467.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-30": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-30/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-30/figura-1.png",
+      "page": 17,
+      "rect": [
+        271.0,
+        818.0,
+        676.0,
+        1003.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-34": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-34/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-34/figura-1.png",
+      "page": 20,
+      "rect": [
+        75.0,
+        217.0,
+        842.0,
+        740.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-37": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-37/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-37/figura-1.png",
+      "page": 22,
+      "rect": [
+        108.0,
+        217.0,
+        459.0,
+        491.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-37/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-37/figura-2.png",
+      "page": 22,
+      "rect": [
+        127.0,
+        549.0,
+        302.0,
+        788.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2026-38": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-38/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-38/figura-1.png",
+      "page": 23,
+      "rect": [
+        427.0,
+        217.0,
+        814.0,
+        639.0
+      ],
+      "type": "raster"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-38/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-38/figura-2.png",
+      "page": 24,
+      "rect": [
+        451.0,
+        232.0,
+        809.0,
+        739.0
+      ],
+      "type": "raster"
+    }
+  ],
+  "2022-03": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-03/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-03/figura-1.png",
+      "page": 2,
+      "rect": [
+        103.0,
+        412.0,
+        822.0,
+        591.0
+      ],
+      "type": "shared",
+      "sharedFrom": "2022-02"
+    }
+  ],
+  "2022-04": [
+    {
+      "path": "/simulados/coluni/figuras/2022/questao-04/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2022/questao-04/figura-1.png",
+      "page": 2,
+      "rect": [
+        103.0,
+        412.0,
+        822.0,
+        591.0
+      ],
+      "type": "shared",
+      "sharedFrom": "2022-02"
+    }
+  ],
+  "2024-02": [
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-02/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-02/figura-1.png",
+      "page": 1,
+      "rect": [
+        138.0,
+        236.0,
+        787.0,
+        702.0
+      ],
+      "type": "shared",
+      "sharedFrom": "2024-01"
+    },
+    {
+      "path": "/simulados/coluni/figuras/2024/questao-02/figura-2.png",
+      "texPath": "static/simulados/coluni/figuras/2024/questao-02/figura-2.png",
+      "page": 1,
+      "rect": [
+        248.0,
+        800.0,
+        693.0,
+        1144.0
+      ],
+      "type": "shared",
+      "sharedFrom": "2024-01"
+    }
+  ],
+  "2026-06": [
+    {
+      "path": "/simulados/coluni/figuras/2026/questao-06/figura-1.png",
+      "texPath": "static/simulados/coluni/figuras/2026/questao-06/figura-1.png",
+      "page": 4,
+      "rect": [
+        183.0,
+        178.0,
+        758.0,
+        387.0
+      ],
+      "type": "shared",
+      "sharedFrom": "2026-05"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Revisão local das provas COLUNI</title>
+  <link rel="stylesheet" href="/ui/reviewer.css">
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]], displayMath: [["\\[", "\\]"]] },
+      options: { skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"] }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="/ui/reviewer.js" defer></script>
+</head>
+<body>
+  <main class="reviewer" data-reviewer>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Ferramenta local</p>
+        <h1>Revisão das provas COLUNI</h1>
+        <p>Compare o PDF com a fonte LaTeX. As edições são gravadas em <code>data/coluni/latex-source/</code>.</p>
+      </div>
+      <button class="button button-regenerate" type="button" data-regenerate>Gerar banco do simulador</button>
+    </header>
+
+    <section class="toolbar" aria-label="Navegação da revisão">
+      <label>Ano
+        <select data-year><option value="all">Todos</option></select>
+      </label>
+      <label>Mostrar
+        <select data-status-filter>
+          <option value="all">Todas</option>
+          <option value="pending">Pendentes</option>
+          <option value="reviewed">Revisadas</option>
+        </select>
+      </label>
+      <label class="question-picker">Questão
+        <select data-question-picker></select>
+      </label>
+      <p class="progress" data-progress aria-live="polite"></p>
+    </section>
+
+    <section class="question-bar" aria-live="polite">
+      <div>
+        <p class="eyebrow" data-question-meta></p>
+        <h2 data-question-title>Carregando questões…</h2>
+      </div>
+      <span class="status pending" data-question-status>Pendente</span>
+    </section>
+
+    <section class="workspace" aria-label="PDF e edição LaTeX">
+      <article class="panel pdf-panel">
+        <div class="panel-heading">
+          <h3>Prova original</h3>
+          <a data-pdf-link target="_blank" rel="noopener noreferrer">Abrir PDF em nova aba</a>
+        </div>
+        <iframe data-pdf title="Página da prova original" loading="lazy"></iframe>
+      </article>
+
+      <div class="right-column">
+        <article class="panel editor-panel">
+          <div class="panel-heading">
+            <h3>Fonte LaTeX</h3>
+            <span data-save-state aria-live="polite">Carregando…</span>
+          </div>
+          <textarea data-source aria-label="Fonte LaTeX editável" spellcheck="false" autocapitalize="off"></textarea>
+          <div class="editor-actions">
+            <button class="button" type="button" data-preview>Atualizar prévia</button>
+            <button class="button button-primary" type="button" data-save>Salvar</button>
+          </div>
+        </article>
+
+        <article class="panel preview-panel">
+          <div class="panel-heading">
+            <h3>Prévia formatada</h3>
+            <span data-preview-state></span>
+          </div>
+          <div class="preview-content" data-preview-content></div>
+        </article>
+      </div>
+    </section>
+
+    <footer class="bottom-bar">
+      <button class="button" type="button" data-previous>← Anterior</button>
+      <div class="bottom-actions">
+        <button class="button" type="button" data-toggle-status>Reabrir como pendente</button>
+        <button class="button button-primary" type="button" data-review-next>Marcar revisada e próxima →</button>
+      </div>
+      <button class="button" type="button" data-next>Próxima →</button>
+    </footer>
+
+    <p class="notice" data-notice role="status" aria-live="polite"></p>
+    <dialog data-regenerate-dialog>
+      <form method="dialog" class="dialog-card">
+        <h2>Banco regenerado</h2>
+        <pre data-regenerate-output></pre>
+        <button class="button button-primary">Fechar</button>
+      </form>
+    </dialog>
+  </main>
+</body>
+</html>
