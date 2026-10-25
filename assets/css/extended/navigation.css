@@ -1,0 +1,24 @@
+#menu {
+  flex-wrap: wrap;
+  overflow: visible;
+  white-space: normal;
+}
+
+#menu li {
+  flex: 0 0 auto;
+}
+
+#menu a {
+  white-space: nowrap;
+}
+
+@media (max-width: 760px) {
+  .nav {
+    row-gap: .25rem;
+  }
+
+  #menu {
+    justify-content: center;
+    width: 100%;
+  }
+}

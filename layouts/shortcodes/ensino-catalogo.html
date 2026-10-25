@@ -1,0 +1,20 @@
+{{- with .Page.Params.grupos }}
+<div class="ensino-catalogo">
+  {{- range $index, $grupo := . }}
+  <section class="ensino-grupo" aria-labelledby="ensino-grupo-{{ $index }}">
+    <h2 id="ensino-grupo-{{ $index }}">{{ $grupo.titulo }}</h2>
+    <div class="ensino-grade">
+      {{- range $grupo.itens }}
+      <article class="ensino-card">
+        <p class="ensino-card__tipo">{{ .tipo }}</p>
+        <h3>{{ .titulo }}</h3>
+        <p class="ensino-card__descricao">{{ .descricao }}</p>
+        <p class="ensino-card__disciplina">{{ .disciplina }}</p>
+        <a class="ensino-card__acao" href="{{ .link | relURL }}">{{ .acao }} <span aria-hidden="true">→</span></a>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+</div>
+{{- end }}

@@ -1,23 +1,29 @@
 ---
 title: "Ensino"
+description: "Aulas, resumos e listas para apoiar seus estudos de Física e ENEM."
+grupos:
+  - titulo: Aulas e materiais de apoio
+    itens:
+      - tipo: Apresentação
+        titulo: Aulão ENEM — Física Elétrica
+        disciplina: Física · ENEM
+        descricao: Panorama da presença de eletricidade no ENEM e introdução aos principais tópicos cobrados na prova.
+        link: /materiais/ensino/aulao-enem-fisica-eletrica.pdf
+        acao: Abrir apresentação
+      - tipo: Resumo + exercícios
+        titulo: Física Elétrica — Resumo e Lista de Exercícios
+        disciplina: Física · ENEM
+        descricao: Resumo teórico, questões do ENEM, exercícios propostos e desafios para praticar.
+        link: /materiais/ensino/lista-fisica-eletrica-enem.pdf
+        acao: Abrir material
+  - titulo: Listas de exercícios
+    itens:
+      - tipo: Lista · 16 questões
+        titulo: ENEM — Competência 02
+        disciplina: Física · Habilidades H05, H06 e H07
+        descricao: Questões sobre consumo de energia, circuitos elétricos, eficiência energética e aplicações tecnológicas. Inclui gabarito.
+        link: /materiais/ensino/lista-exercicios-enem-competencia-2.pdf
+        acao: Abrir lista
 ---
 
-## Materiais didáticos
-
-### Aulão ENEM — Física Elétrica
-
-Apresentação do aulão sobre Física Elétrica, com um panorama da presença de eletricidade no ENEM e introdução aos principais tópicos cobrados na prova.
-
-[**Abrir apresentação →**](/materiais/ensino/aulao-enem-fisica-eletrica.pdf)
-
-### Física Elétrica — Resumo e Lista de Exercícios
-
-Resumo teórico de Física Elétrica, questões do ENEM, exercícios propostos e desafios.
-
-[**Abrir material →**](/materiais/ensino/lista-fisica-eletrica-enem.pdf)
-
-### Lista ENEM — Competência 02
-
-Lista com 16 questões de Física sobre tecnologias e suas aplicações no cotidiano, com foco nas habilidades H05, H06 e H07 da matriz de referência do ENEM. Inclui exercícios sobre consumo de energia, circuitos elétricos, eficiência energética e aplicações tecnológicas, com gabarito.
-
-[**Abrir lista de exercícios →**](/materiais/ensino/lista-exercicios-enem-competencia-2.pdf)
+{{< ensino-catalogo >}}

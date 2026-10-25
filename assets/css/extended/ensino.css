@@ -1,0 +1,92 @@
+.ensino-catalogo {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.post-content .ensino-grupo > h2 {
+  margin: 0 0 1rem;
+  font-size: 1.35rem;
+}
+
+.ensino-grade {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.ensino-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--entry);
+}
+
+.post-content .ensino-card p {
+  margin: 0;
+}
+
+.post-content .ensino-card__tipo {
+  margin-bottom: .65rem !important;
+  padding: .2rem .55rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--secondary);
+  font-size: .76rem;
+  font-weight: 600;
+}
+
+.post-content .ensino-card h3 {
+  margin: 0 0 .55rem;
+  font-size: 1.12rem;
+  line-height: 1.4;
+}
+
+.post-content .ensino-card__descricao {
+  color: var(--secondary);
+  line-height: 1.65;
+}
+
+.post-content .ensino-card__disciplina {
+  margin-top: .8rem !important;
+  font-size: .82rem;
+  font-weight: 600;
+}
+
+.post-content .ensino-card__acao {
+  display: inline-flex;
+  gap: .35rem;
+  align-items: center;
+  margin-top: 1.1rem;
+  padding: .55rem .8rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color .15s ease, background-color .15s ease;
+}
+
+.post-content .ensino-card__acao:hover {
+  border-color: var(--primary);
+  background: var(--code-bg);
+}
+
+@media (max-width: 640px) {
+  .ensino-grade {
+    grid-template-columns: 1fr;
+  }
+
+  .ensino-card {
+    padding: 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post-content .ensino-card__acao {
+    transition: none;
+  }
+}

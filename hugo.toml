@@ -62,8 +62,8 @@ theme = "PaperMod"
     weight = 40
 
   [[menu.main]]
-    identifier = "meusimulador"
-    name = "MeuSimulador"
+    identifier = "simulados"
+    name = "Simulados"
     url = "/simulados/coluni/"
     weight = 30
 
