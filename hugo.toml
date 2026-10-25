@@ -59,13 +59,19 @@ theme = "PaperMod"
     identifier = "ensino"
     name = "Ensino"
     url = "/ensino/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "meusimulador"
+    name = "MeuSimulador"
+    url = "/simulados/coluni/"
     weight = 30
 
   [[menu.main]]
     identifier = "pesquisa"
     name = "Pesquisa"
     url = "/pesquisa/"
-    weight = 40
+    weight = 50
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

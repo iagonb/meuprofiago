@@ -2,14 +2,6 @@
 title: "Ensino"
 ---
 
-## Simulados
-
-### Simulador de provas do COLUNI
-
-Pratique com questões objetivas de provas anteriores, filtrando por conteúdo ou ano.
-
-[**Abrir simulador →**](/simulados/coluni/)
-
 ## Materiais didáticos
 
 ### Aulão ENEM — Física Elétrica
