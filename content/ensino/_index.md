@@ -10,6 +10,12 @@ grupos:
         descricao: Panorama da presença de eletricidade no ENEM e introdução aos principais tópicos cobrados na prova.
         link: /materiais/ensino/aulao-enem-fisica-eletrica.pdf
         acao: Abrir apresentação
+      - tipo: Apresentação
+        titulo: Aulão ENEM — Magnetismo
+        disciplina: Física · ENEM
+        descricao: Introdução ao magnetismo, ao eletromagnetismo e às aplicações tecnológicas desses fenômenos.
+        link: /materiais/ensino/aulao-enem-magnetismo.png
+        acao: Abrir apresentação
       - tipo: Resumo + exercícios
         titulo: Física Elétrica — Resumo e Lista de Exercícios
         disciplina: Física · ENEM
