@@ -24,6 +24,12 @@ grupos:
         descricao: Questões sobre consumo de energia, circuitos elétricos, eficiência energética e aplicações tecnológicas. Inclui gabarito.
         link: /materiais/ensino/lista-exercicios-enem-competencia-2.pdf
         acao: Abrir lista
+      - tipo: Lista · 30 questões
+        titulo: Magnetismo e Eletromagnetismo — ENEM
+        disciplina: Física · ENEM
+        descricao: Questões sobre campo magnético, força magnética, indução eletromagnética e aplicações em motores, geradores e tecnologias do cotidiano.
+        link: /materiais/ensino/lista-magnetismo-enem.pdf
+        acao: Abrir lista
 ---
 
 {{< ensino-catalogo >}}
